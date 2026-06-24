@@ -3,7 +3,7 @@ from schemas import BuyerProfile
 from prompts import EXTRACTION_PROMPT
 from normalizer import normalize_features
 
-client = genai.Client(api_key="AQ.Ab8RN6JA7iyAOAmRO1tvmKfJvdpmcfJFe3WqU5nmVr29fI8iQw")
+client = genai.Client(api_key="ENTER API KEY")
 
 def extract_buyer_profile(message: str):
 
