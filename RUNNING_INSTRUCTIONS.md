@@ -1,4 +1,4 @@
-# 🚀 How to Run AgentMira
+# 🚀 How to Run AgentMira Buyer Lead Briefer
 
 This guide explains how to run AgentMira on your computer, even if you have never worked with Python before.
 
