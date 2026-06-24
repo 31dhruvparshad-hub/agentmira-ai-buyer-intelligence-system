@@ -3,6 +3,7 @@
 AgentMira is an AI powered real estate lead qualification and property matching platform designed to help realtors analyze buyer inquiries, qualify leads, and identify the most relevant MLS listings.
 
 The platform transforms unstructured buyer messages into structured buyer profiles, ranks available properties using a weighted matching engine, identifies missing information, and provides actionable insights through an interactive dashboard.
+![a59421ff-9f3b-48ff-955c-cf32bd6eee8a](https://github.com/user-attachments/assets/904c3adf-983e-450c-8345-aa8b36170070)
 
 ---
 
