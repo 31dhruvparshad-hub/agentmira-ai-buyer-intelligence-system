@@ -2,7 +2,7 @@ from pydantic import BaseModel
 from typing import List, Optional
 
 class BuyerProfile(BaseModel):
-    buyer_persona: str | None = None
+    buyer_persona: str = "General Buyer"
 
     budget_target: Optional[int] = None
     budget_max: Optional[int] = None
